@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/onryo/.java'
+let g:netrw_dirhist_5='/home/onryo/.icons/default'
+let g:netrw_dirhist_4='/home/onryo/.icons'
+let g:netrw_dirhist_3='/home/onryo/.cache'
+let g:netrw_dirhist_2='/mnt/code/keybs/qmk_firmware/keyboards/yd60mq/keymaps/jdaughd2'
+let g:netrw_dirhist_1='/home/onryo/.i3'

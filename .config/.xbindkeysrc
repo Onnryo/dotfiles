@@ -1,0 +1,5 @@
+"systemctl --user start whitenoise"
+	F12
+
+"systemctl --user stop whitenoise"
+	F11
